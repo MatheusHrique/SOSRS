@@ -17,10 +17,15 @@ ser nomeada como index.html).
 ‣ Deve ser entregue e apresentado ao professor.
 
 *Critérios de Avaliação:*
+
 *‣ 25% - Elaboração de interface responsiva ou pelo menos dinâmica /
 adaptada a diversos tamanhos de tela. Aqui será avaliada a utilização de
 HTML5 e CSS3..
+
 ‣ 25% - Implementação com JavaScript..
+
 ‣ 20% - Funcionamento do site/erros gramaticais.
+
 ‣ 20% - Intuitividade e Interatividade do site.
+
 ‣ 10% - Avaliação geral da documentação do código do trabalho.*
