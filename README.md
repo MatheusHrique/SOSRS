@@ -1,7 +1,7 @@
 # SOSRS
 
 <hr><br>
-Um trabalho sobre um site que receba as informações, que no caso são sintomas, e que ele trate essas informações dando o resultado de qual doença pode ser, sendo assim cada doença tem uma página dedicada. Utilizando tecnologias de desenvolvimento web HTML5, CSS3 e JavaScript. <br><br>
+Hola, sou Matheus Henrique Justin Caetano, estou fazendo Um trabalho que nomeei de "DiagWeb" que se trata de um site que receba as informações, que no caso são sintomas, e que ele trate essas informações dando o resultado de qual doença pode ser, sendo assim cada doença tem uma página dedicada. Utilizando tecnologias de desenvolvimento web HTML5, CSS3 e JavaScript. <br><br>
 <hr><br><br>
 
 *<b>Sobre o site:*</b><br><br>
