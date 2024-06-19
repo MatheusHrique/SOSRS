@@ -12,7 +12,8 @@ Planejar como será a estilização das páginas com figma [paleta de cor (coolo
 ‣ Deve ser criado um repositório novo no Git chamado SOSRS no qual será utilizado para colocar todos os arquivos para o site funcionar; <br>
 ‣ Publicar o site utilizando o Git Pages (lembrando que a página inicial deve ser nomeada como index.html). <br>
 <hr><br>
-*<b>Sobre a trabalho:</b>* <br>
+
+<b>*Sobre a trabalho:*</b> <br>
 ‣ Este trabalho conta atividade avaliativa. <br>
 ‣ Deve ser entregue e apresentado ao professor. <br> <br>
 <hr><br>
@@ -23,3 +24,4 @@ Planejar como será a estilização das páginas com figma [paleta de cor (coolo
 *‣ 20% - Funcionamento do site/erros gramaticais.* <br>
 *‣ 20% - Intuitividade e Interatividade do site.* <br>
 *‣ 10% - Avaliação geral da documentação do código do trabalho.* <br>
+<hr>
