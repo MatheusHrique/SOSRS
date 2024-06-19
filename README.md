@@ -4,9 +4,9 @@
 Um trabalho sobre um site que receba as informações, que no caso são sintomas, e que ele trate essas informações dando o resultado de qual doença pode ser, sendo assim cada doença tem uma página dedicada. Utilizando tecnologias de desenvolvimento web HTML5, CSS3 e JavaScript.
 <hr><br>
 
-*<b>Sobre o site:*</b><br>
-Planejar como será a estilização das páginas com figma [paleta de cor (coolors), fontes (googlefonts), imagens (freepik), ícones (inconify)]. <br>
+*<b>Sobre o site:*</b><br><br>
 
+‣ Planejar como será a estilização das páginas com figma [paleta de cor (coolors), fontes (googlefonts), imagens (freepik), ícones (inconify)]. <br>
 ‣ O site deve ser mobile first; <br>
 ‣ O briefing do conteúdo sobre as doenças está aqui; <br>
 ‣ Deve ser criado um repositório novo no Git chamado SOSRS no qual será utilizado para colocar todos os arquivos para o site funcionar; <br>
