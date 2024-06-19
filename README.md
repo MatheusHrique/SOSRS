@@ -10,7 +10,7 @@ Um trabalho sobre um site que receba as informações, que no caso são sintomas
 ‣ O site deve ser mobile first; <br>
 ‣ O briefing do conteúdo sobre as doenças está aqui; <br>
 ‣ Deve ser criado um repositório novo no Git chamado SOSRS no qual será utilizado para colocar todos os arquivos para o site funcionar; <br>
-‣ Publicar o site utilizando o Git Pages (lembrando que a página inicial deve ser nomeada como index.html). <br>
+‣ Publicar o site utilizando o Git Pages (lembrando que a página inicial deve ser nomeada como index.html). <br><br><br>
 <hr><br><br>
 
 <b>*Sobre a trabalho:*</b> <br><br>
