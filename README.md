@@ -23,7 +23,7 @@ Um trabalho sobre um site que receba as informações, que no caso são sintomas
 *‣ 25% - Implementação com JavaScript..* <br>
 *‣ 20% - Funcionamento do site/erros gramaticais.* <br>
 *‣ 20% - Intuitividade e Interatividade do site.* <br>
-*‣ 10% - Avaliação geral da documentação do código do trabalho.* <br>
+*‣ 10% - Avaliação geral da documentação do código do trabalho.* <br><br><br>
 <hr><br><br>
 <b>Figma:<b> *https://www.figma.com/design/0xWYbX0M9NDdDKbP74sOML/Untitled?node-id=0-1&t=CBHvQCZbi9ffv2J7-1* <br><br><br>
 <hr><br>
