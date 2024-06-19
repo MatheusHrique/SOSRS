@@ -27,8 +27,8 @@ Um trabalho sobre um site que receba as informações, que no caso são sintomas
 <hr><br>
 Figma: https://www.figma.com/design/0xWYbX0M9NDdDKbP74sOML/Untitled?node-id=0-1&t=CBHvQCZbi9ffv2J7-1
 <br>
-<hr><br><br>
-<br>*Creditos:*</b><br>
+<hr><br>
+<b>*Creditos:*</b><br>
 ‣ <a href="https://br.freepik.com/fotos-gratis/superficie-de-metal-riscada-de-estilo-grunge-escuro_10167160.htm#fromView=search&page=1&position=0&uuid=28c90813-427e-44b4-bf18-a0ed88e05ed4">Imagem de kjpargeter no Freepik</a><br>
 ‣ <a href="https://br.freepik.com/fotos-gratis/vetor-de-parede-de-concreto-marrom-com-arranhoes_18835559.htm#fromView=search&page=1&position=1&uuid=4093b879-2aeb-4d14-805c-17664bfbeba2">Imagem de rawpixel.com no Freepik</a><br>
 ‣ <a href="https://br.freepik.com/search?format=search&last_filter=query&last_value=background+azul&query=background+azul">Imagem de rawpixel.com no Freepik</a><br>
