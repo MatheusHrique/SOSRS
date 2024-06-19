@@ -11,12 +11,12 @@ Um trabalho sobre um site que receba as informações, que no caso são sintomas
 ‣ O briefing do conteúdo sobre as doenças está aqui; <br>
 ‣ Deve ser criado um repositório novo no Git chamado SOSRS no qual será utilizado para colocar todos os arquivos para o site funcionar; <br>
 ‣ Publicar o site utilizando o Git Pages (lembrando que a página inicial deve ser nomeada como index.html). <br>
-<hr><br>
+<hr><br><br>
 
 <b>*Sobre a trabalho:*</b> <br><br>
 ‣ Este trabalho conta atividade avaliativa. <br>
 ‣ Deve ser entregue e apresentado ao professor. <br> <br>
-<hr><br>
+<hr><br><br>
 
 *<b>Critérios de Avaliação:</b>* <br><br>
 *‣ 25% - Elaboração de interface responsiva ou pelo menos dinâmica / adaptada a diversos tamanhos de tela. Aqui será avaliada a utilização de HTML5 e CSS3..* <br>
