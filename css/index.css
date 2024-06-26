@@ -2,6 +2,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url(../img/background1.jpg);
+    background-size: contain;
+    
+    background-repeat: no-repeat; /* ajustar o tamanho da imagem */
 }
 
 header {
@@ -36,4 +40,38 @@ footer {
     footer {
         padding: 10px;
     }
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+}
+
+/* DiagWeb */
+h1 {
+    font-size: 200px;
+    font-family: 'Macondo Swash Caps', 'Macondo';
+}
+
+.linha2 {
+    width: 784px;
+    height: 358;
+}
+
+/* Tamanho menor que 960px */
+@media (max-width: 960px) {
+    h1 {
+        font-size: 100px; /* 24px */
+    }
+}
+
+/* Bem vindo ao... */
+h2 {
+    font-size: 60px;
+}
+
+/* "Descubra sua saúde com alguns cliques!" */
+h3 {
+    font-size: 30px;
 }
