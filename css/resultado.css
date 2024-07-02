@@ -57,8 +57,25 @@ body {
     /* centraliz o texto dentro das divs */
 }
 
+.SintomasSelecionadas {
+    font-family: 'Love Ya Like A Sister';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 56px;
+    /* identical to box height */
+    text-decoration-line: underline;
+    color: black;
+    border: 1px solid black;
+}
+
+#checkboxsSelecionados {
+    border: 1px solid black;
+    font-family: 'Arial';
+    font-style: normal;
+}
+
 h3 {
-    /* Hola, sou Matheus Henrique Justin Caetano, estou fazendo Um trabalho que nomeei de "DiagWeb" que se trata de um site que receba as informações, que no caso são sintomas, e que ele trate essas informações dando o resultado de qual doença pode ser, sendo assim cada doença tem uma página dedicada. Utilizando tecnologias de desenvolvimento web HTML5, CSS3 e JavaScript. Este site irá análisar e determinar caso você tenha uma ou mais das seguintes doenças: (1) Leptospirose; (2) Tétano; (3) Diarreia aguda; (4) Hepatite A; (5) Dengue; (6) Animais peçonhentos (aranhas, cobra, lacraias e escorpiões). Por favor, note que este site não possui 100% de sua precisão, vá para o médico caso suspeite que possua alguma dessas doenças. -Matheus Henrique Justin Caetano. */
     font-family: 'Love Ya Like A Sister';
     font-style: normal;
     font-weight: 400;
@@ -70,7 +87,7 @@ h3 {
 
 .texto_container {
     width: 1036px;
-    height: 722px;
+    height: 600px;
     background: url(../img/quadrado4.jpg);
     border-radius: 100px;
     display: flex;
@@ -95,8 +112,8 @@ h3 {
 
 .flecha {
     text-align: center;
-    margin-top: 18%;
-    margin-bottom: 25%;
+    margin-top: 15%;
+    margin-bottom: 10%;
 }
 
 .flecha1 {
@@ -104,7 +121,7 @@ h3 {
     height: 200px;
     border-radius: 100px;
     text-align: center;
-    margin-left: 15%;
+    margin-left: 21%;
 }
 
 .flecha2 {
@@ -112,7 +129,7 @@ h3 {
     height: 200px;
     border-radius: 100px;
     text-align: center;
-    margin-left: 15%;
+    margin-left: 21%;
     transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
@@ -124,7 +141,7 @@ figcaption {
     font-size: 25px;
     line-height: 31px;
     color: white;
-    margin-left: 30%;
+    margin-left: 15%;
 }
 
 /* DiagWeb */

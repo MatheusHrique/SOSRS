@@ -14,37 +14,99 @@ body {
     height: 100vh;
 }
 
-/* header {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-} */
-
-/* main {} */
-
-/* footer {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-} */
-
-/* image 2 */
-
 @media screen and (max-width: 768px) {
-    body {
-        font-size: 25px;
+    figcaption {
+        /* Avançar */
+        font-family: 'Love Ya Like A Sister';
+        font-style: normal;
+        font-weight: 200;
+        font-size: 12px;
+        line-height: 15px;
+        color: white;
     }
-
-    header {
-        padding: 10px;
+    
+    figure img {
+        width: 150px;
+        height: 100px;
+        border-radius: 50px;
+        text-align: center;
     }
-
-    main {
-        margin: 10px;
+    
+    /* DiagWeb */
+    h1 {
+        font-size: 90px;
+        font-family: "Macondo Swash Caps", cursive;
+        font-weight: 200;
+        font-style: normal;
+        color: white;
+    
     }
-
-    footer {
-        padding: 10px;
+    
+    /* Bem vindo ao... */
+    h2 {
+        font-size: 1.85rem;
+        color: white;
+        font-family: "Love Ya Like A Sister", cursive;
+        font-weight: 200;
+        font-style: normal;
+    }
+    
+    /* "Descubra sua saúde com alguns cliques!" */
+    h3 {
+        font-size: 15px;
+        color: white;
+        font-family: "Love Ya Like A Sister", cursive;
+        font-weight: 200;
+        font-style: normal;
+    
+    }
+    
+    .linha2 {
+        width: 392px;
+        height: 179px;
+        background: url(../img/quadrado1.jpg);
+        border-radius: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        /* Redimensiona a imagem */
+    }
+    
+    
+    
+    .linha1 {
+    
+        margin-top: 5%;
+    
+        width: 243px;
+        height: 58px;
+        background: url(../img/quadrado2.jpg);
+        border-radius: 50px;
+    
+        display: flex;
+        justify-content: center;
+        /* centraliza horizontalmente */
+        align-items: center;
+        /* Centraliza verticalmente */
+        background-size: cover;
+        /* Redimensiona a imagem */
+    
+    }
+    
+    .linha3 {
+        width: 313px;
+        height: 43px;
+        background: url(../img/quadrado3.jpg);
+        border-radius: 50px;
+    
+        display: flex;
+        justify-content: center;
+        /* Centraliza horizontalmente */
+        align-items: center;
+        /* Centraliza verticalmente */
+        background-size: cover;
+        /* Redimensiona a imagem */
     }
 }
 
@@ -72,8 +134,8 @@ figcaption {
 }
 
 figure img {
-    width: 274px;
-    height: 100px;
+    width: 300px;
+    height: 200px;
     border-radius: 100px;
     text-align: center;
 }
