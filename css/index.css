@@ -11,7 +11,7 @@ body {
     background-repeat: no-repeat;
     /* ajustar o tamanho da imagem */
 
-    height: 100vh;
+/*     height: 100vh; */
 }
 
 @media screen and (max-width: 768px) {
