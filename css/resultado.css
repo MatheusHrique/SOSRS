@@ -10,51 +10,13 @@ body {
     /* Redimensiona a imagem */
     background-repeat: no-repeat;
     /* ajustar o tamanho da imagem */
-
-    height: 100vh;
-}
-
-/* header {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-} */
-
-/* main {} */
-
-/* footer {
-    background-color: #f1f1f1;
-    padding: 20px;
-    text-align: center;
-} */
-
-/* image 2 */
-
-@media screen and (max-width: 768px) {
-    body {
-        font-size: 25px;
-    }
-
-    header {
-        padding: 10px;
-    }
-
-    main {
-        margin: 10px;
-    }
-
-    footer {
-        padding: 10px;
-    }
+    margin: auto;
+    background-color: black;
 }
 
 .container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    /* centraliza horizontalmente */
     text-align: center;
-    /* centraliz o texto dentro das divs */
+    margin: auto;
 }
 
 .SintomasSelecionadas {
@@ -67,6 +29,7 @@ body {
     text-decoration-line: underline;
     color: black;
     border: 1px solid black;
+    border-radius: 100px;
 }
 
 #checkboxsSelecionados {
@@ -87,33 +50,30 @@ h3 {
 
 .texto_container {
     width: 1036px;
-    height: 600px;
+    height: 722px;
     background: url(../img/quadrado4.jpg);
     border-radius: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     background-size: cover;
     /* Redimensiona a imagem */
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 4%;
+    min-width: 600px;
 }
 
 .container1 {
     display: flex;
     align-items: center;
-    /* centraliza horizontalmente */
-    text-align: center;
-    /* centraliz o texto dentro das divs */
 }
 
 .container2 {
     display: flex;
-    /* centraliz o texto dentro das divs */
 }
 
 .flecha {
     text-align: center;
-    margin-top: 15%;
-    margin-bottom: 10%;
+    margin: auto;
 }
 
 .flecha1 {
@@ -121,7 +81,9 @@ h3 {
     height: 200px;
     border-radius: 100px;
     text-align: center;
-    margin-left: 21%;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 .flecha2 {
@@ -129,8 +91,10 @@ h3 {
     height: 200px;
     border-radius: 100px;
     text-align: center;
-    margin-left: 21%;
     transform: matrix(-1, 0, 0, 1, 0, 0);
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 figcaption {
@@ -141,7 +105,7 @@ figcaption {
     font-size: 25px;
     line-height: 31px;
     color: white;
-    margin-left: 15%;
+    margin: auto;
 }
 
 /* DiagWeb */
@@ -169,16 +133,11 @@ h2 {
     height: 230px;
     background: url(../img/quadrado1.jpg);
     border-radius: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
     background-size: cover;
     /* Redimensiona a imagem */
-
-    margin-bottom: 0.5%;
-    margin-left: 2%;
-    /* DiagWeb */
+    max-width: 100%;
+    height: auto;
+    margin: auto;
 }
 
 .linha1 {
@@ -188,11 +147,21 @@ h2 {
     height: 230px;
     background: url(../img/quadradoRedondo.jpg);
     border-radius: 100px;
-    display: flex;
-    justify-content: center;
-    /* centraliza horizontalmente */
-    align-items: center;
-    /* Centraliza verticalmente */
     background-size: cover;
     /* Redimensiona a imagem */
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#resultado {
+    font-family: 'Love Ya Like A Sister';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+    color: black;
+    margin: auto;
+    padding: 3%;
+    text-align: left;
 }

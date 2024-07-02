@@ -108,12 +108,14 @@ document.addEventListener('DOMContentLoaded', function() {
     
         // Exiba as probabilidades no elemento HTML
         document.getElementById('resultado').innerHTML = `
-        <p>Existe uma chance ${probabilidades.Leptospirose} de que você tenha Leptospirose.</p>
-        <p>Existe uma chance ${probabilidades.Tetano} de que você tenha Tétano.</p>
-        <p>Existe uma chance ${probabilidades.Dengue} de que você tenha Dengue.</p>
-        <p>Existe uma chance ${probabilidades.DiarreiaAguda} de que você tenha Diarreia aguda.</p>
-        <p>Existe uma chance ${probabilidades.HepatiteA} de que você tenha Hepatite A.</p>
-        <p>Existe uma chance ${probabilidades.AnimaisPeconhentos} de que você tenha sido picado por um Animal peçonhento.</p>
+        <ul>
+        <p><li>Tem uma chance ${probabilidades.Leptospirose} de que você tenha Leptospirose.</li></p>
+        <p><li>Tem uma chance ${probabilidades.Tetano} de que você tenha Tétano.</li></p>
+        <p><li>Tem uma chance ${probabilidades.Dengue} de que você tenha Dengue.</li></p>
+        <p><li>Tem uma chance ${probabilidades.DiarreiaAguda} de que você tenha Diarreia aguda.</li></p>
+        <p><li>Tem uma chance ${probabilidades.HepatiteA} de que você tenha Hepatite A.</li></p>
+        <p><li>Tem uma chance ${probabilidades.AnimaisPeconhentos} de que você tenha sido picado por um Animal peçonhento.</li></p>
+        </ul>
         `;
     
 

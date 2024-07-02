@@ -5,3 +5,9 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+body {
+  background-image: url(../img/background1.jpg);
+  background-size: cover;
+  margin: auto;
+}
